@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "ViewModel con corrutinas ejemplo"
